@@ -1,0 +1,4 @@
+2025/05/16-22:38:42.131 23dc Reusing MANIFEST C:\Users\JLACHIRA\bot\botwhatsaap\botwhatsaap\.wwebjs_auth\session\Default\Session Storage/MANIFEST-000001
+2025/05/16-22:38:42.132 23dc Recovering log #4
+2025/05/16-22:38:42.132 23dc (ignoring error) C:\Users\JLACHIRA\bot\botwhatsaap\botwhatsaap\.wwebjs_auth\session\Default\Session Storage/000004.log: dropping 24535 bytes; Corruption: checksum mismatch
+2025/05/16-22:38:42.133 23dc Reusing old log C:\Users\JLACHIRA\bot\botwhatsaap\botwhatsaap\.wwebjs_auth\session\Default\Session Storage/000004.log 

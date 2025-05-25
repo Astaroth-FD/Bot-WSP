@@ -1,0 +1,180 @@
+2025/05/16-23:11:35.171 3fcc Reusing MANIFEST C:\Users\JLACHIRA\bot\botwhatsaap\botwhatsaap\.wwebjs_auth\session\Default\Local Storage\leveldb/MANIFEST-000001
+2025/05/16-23:11:35.172 3fcc Recovering log #1152
+2025/05/16-23:11:35.173 3fcc Reusing old log C:\Users\JLACHIRA\bot\botwhatsaap\botwhatsaap\.wwebjs_auth\session\Default\Local Storage\leveldb/001152.log 
+2025/05/16-23:12:38.385 47f8 Level-0 table #1157: started
+2025/05/16-23:12:38.390 47f8 Level-0 table #1157: 18077 bytes OK
+2025/05/16-23:12:38.392 47f8 Delete type=0 #1152
+2025/05/17-08:32:11.264 4550 Level-0 table #1159: started
+2025/05/17-08:32:11.272 4550 Level-0 table #1159: 16963 bytes OK
+2025/05/17-08:32:11.275 4550 Delete type=0 #1156
+2025/05/17-10:32:14.436 8e0 Level-0 table #1161: started
+2025/05/17-10:32:14.466 8e0 Level-0 table #1161: 13714 bytes OK
+2025/05/17-10:32:14.467 8e0 Delete type=0 #1158
+2025/05/17-12:36:21.207 3d8c Level-0 table #1163: started
+2025/05/17-12:36:21.238 3d8c Level-0 table #1163: 12381 bytes OK
+2025/05/17-12:36:21.239 3d8c Delete type=0 #1160
+2025/05/17-12:36:21.239 3d8c Compacting 4@0 + 1@1 files
+2025/05/17-12:36:21.245 3d8c Generated table #1164@0: 93 keys, 10437 bytes
+2025/05/17-12:36:21.245 3d8c Compacted 4@0 + 1@1 files => 10437 bytes
+2025/05/17-12:36:21.246 3d8c compacted to: files[ 0 1 0 0 0 0 0 ]
+2025/05/17-12:36:21.246 3d8c Delete type=2 #1154
+2025/05/17-12:36:21.246 3d8c Delete type=2 #1157
+2025/05/17-12:36:21.246 3d8c Delete type=2 #1159
+2025/05/17-12:36:21.246 3d8c Delete type=2 #1161
+2025/05/17-12:36:21.246 3d8c Delete type=2 #1163
+2025/05/18-03:22:53.442 4978 Level-0 table #1166: started
+2025/05/18-03:22:53.452 4978 Level-0 table #1166: 12301 bytes OK
+2025/05/18-03:22:53.456 4978 Delete type=0 #1162
+2025/05/19-06:04:17.744 2390 Level-0 table #1168: started
+2025/05/19-06:04:17.751 2390 Level-0 table #1168: 11803 bytes OK
+2025/05/19-06:04:17.755 2390 Delete type=0 #1165
+2025/05/19-10:11:33.887 37f8 Level-0 table #1170: started
+2025/05/19-10:11:33.909 37f8 Level-0 table #1170: 13836 bytes OK
+2025/05/19-10:11:33.913 37f8 Delete type=0 #1167
+2025/05/19-12:40:03.297 4628 Level-0 table #1172: started
+2025/05/19-12:40:03.340 4628 Level-0 table #1172: 13815 bytes OK
+2025/05/19-12:40:03.342 4628 Delete type=0 #1169
+2025/05/19-12:40:03.440 4628 Compacting 4@0 + 1@1 files
+2025/05/19-12:40:03.445 4628 Generated table #1173@0: 93 keys, 9643 bytes
+2025/05/19-12:40:03.445 4628 Compacted 4@0 + 1@1 files => 9643 bytes
+2025/05/19-12:40:03.446 4628 compacted to: files[ 0 1 0 0 0 0 0 ]
+2025/05/19-12:40:03.447 4628 Delete type=2 #1164
+2025/05/19-12:40:03.447 4628 Delete type=2 #1166
+2025/05/19-12:40:03.447 4628 Delete type=2 #1168
+2025/05/19-12:40:03.448 4628 Delete type=2 #1170
+2025/05/19-12:40:03.448 4628 Delete type=2 #1172
+2025/05/19-14:54:43.187 498 Level-0 table #1175: started
+2025/05/19-14:54:43.218 498 Level-0 table #1175: 12415 bytes OK
+2025/05/19-14:54:43.219 498 Delete type=0 #1171
+2025/05/19-17:01:08.465 2474 Level-0 table #1177: started
+2025/05/19-17:01:08.825 2474 Level-0 table #1177: 12477 bytes OK
+2025/05/19-17:01:08.828 2474 Delete type=0 #1174
+2025/05/19-19:05:45.748 804 Level-0 table #1179: started
+2025/05/19-19:05:45.764 804 Level-0 table #1179: 13750 bytes OK
+2025/05/19-19:05:45.767 804 Delete type=0 #1176
+2025/05/20-08:35:35.092 4c50 Level-0 table #1181: started
+2025/05/20-08:35:35.123 4c50 Level-0 table #1181: 13065 bytes OK
+2025/05/20-08:35:35.125 4c50 Delete type=0 #1178
+2025/05/20-08:35:35.125 4c50 Compacting 4@0 + 1@1 files
+2025/05/20-08:35:35.130 4c50 Generated table #1182@0: 93 keys, 9642 bytes
+2025/05/20-08:35:35.130 4c50 Compacted 4@0 + 1@1 files => 9642 bytes
+2025/05/20-08:35:35.131 4c50 compacted to: files[ 0 1 0 0 0 0 0 ]
+2025/05/20-08:35:35.131 4c50 Delete type=2 #1173
+2025/05/20-08:35:35.131 4c50 Delete type=2 #1175
+2025/05/20-08:35:35.131 4c50 Delete type=2 #1177
+2025/05/20-08:35:35.131 4c50 Delete type=2 #1179
+2025/05/20-08:35:35.131 4c50 Delete type=2 #1181
+2025/05/20-10:15:38.940 28f8 Level-0 table #1184: started
+2025/05/20-10:15:38.945 28f8 Level-0 table #1184: 17911 bytes OK
+2025/05/20-10:15:38.947 28f8 Delete type=0 #1180
+2025/05/20-11:55:45.699 170 Level-0 table #1186: started
+2025/05/20-11:55:45.713 170 Level-0 table #1186: 15421 bytes OK
+2025/05/20-11:55:45.717 170 Delete type=0 #1183
+2025/05/20-13:15:51.872 2e8c Level-0 table #1188: started
+2025/05/20-13:15:51.902 2e8c Level-0 table #1188: 15376 bytes OK
+2025/05/20-13:15:51.905 2e8c Delete type=0 #1185
+2025/05/20-15:36:00.792 30e0 Level-0 table #1190: started
+2025/05/20-15:36:00.808 30e0 Level-0 table #1190: 18087 bytes OK
+2025/05/20-15:36:00.811 30e0 Delete type=0 #1187
+2025/05/20-15:36:00.812 30e0 Compacting 4@0 + 1@1 files
+2025/05/20-15:36:00.823 30e0 Generated table #1191@0: 93 keys, 9748 bytes
+2025/05/20-15:36:00.823 30e0 Compacted 4@0 + 1@1 files => 9748 bytes
+2025/05/20-15:36:00.823 30e0 compacted to: files[ 0 1 0 0 0 0 0 ]
+2025/05/20-15:36:00.824 30e0 Delete type=2 #1182
+2025/05/20-15:36:00.824 30e0 Delete type=2 #1184
+2025/05/20-15:36:00.824 30e0 Delete type=2 #1186
+2025/05/20-15:36:00.824 30e0 Delete type=2 #1188
+2025/05/20-15:36:00.824 30e0 Delete type=2 #1190
+2025/05/20-17:26:04.811 2a18 Level-0 table #1193: started
+2025/05/20-17:26:04.839 2a18 Level-0 table #1193: 18012 bytes OK
+2025/05/20-17:26:04.841 2a18 Delete type=0 #1189
+2025/05/20-19:26:12.629 874 Level-0 table #1195: started
+2025/05/20-19:26:12.657 874 Level-0 table #1195: 17291 bytes OK
+2025/05/20-19:26:12.661 874 Delete type=0 #1192
+2025/05/21-07:46:52.819 29b8 Level-0 table #1197: started
+2025/05/21-07:46:52.829 29b8 Level-0 table #1197: 16252 bytes OK
+2025/05/21-07:46:52.832 29b8 Delete type=0 #1194
+2025/05/21-10:24:46.464 3d5c Level-0 table #1199: started
+2025/05/21-10:24:46.480 3d5c Level-0 table #1199: 14633 bytes OK
+2025/05/21-10:24:46.484 3d5c Delete type=0 #1196
+2025/05/21-10:24:46.497 3d5c Compacting 4@0 + 1@1 files
+2025/05/21-10:24:46.506 3d5c Generated table #1200@0: 93 keys, 9640 bytes
+2025/05/21-10:24:46.506 3d5c Compacted 4@0 + 1@1 files => 9640 bytes
+2025/05/21-10:24:46.508 3d5c compacted to: files[ 0 1 0 0 0 0 0 ]
+2025/05/21-10:24:46.509 3d5c Delete type=2 #1191
+2025/05/21-10:24:46.510 3d5c Delete type=2 #1193
+2025/05/21-10:24:46.510 3d5c Delete type=2 #1195
+2025/05/21-10:24:46.510 3d5c Delete type=2 #1197
+2025/05/21-10:24:46.510 3d5c Delete type=2 #1199
+2025/05/21-12:37:06.739 3e1c Level-0 table #1202: started
+2025/05/21-12:37:06.767 3e1c Level-0 table #1202: 13713 bytes OK
+2025/05/21-12:37:06.769 3e1c Delete type=0 #1198
+2025/05/21-14:47:13.661 16b0 Level-0 table #1204: started
+2025/05/21-14:47:13.670 16b0 Level-0 table #1204: 13412 bytes OK
+2025/05/21-14:47:13.674 16b0 Delete type=0 #1201
+2025/05/21-16:47:19.882 102c Level-0 table #1206: started
+2025/05/21-16:47:19.891 102c Level-0 table #1206: 13491 bytes OK
+2025/05/21-16:47:19.894 102c Delete type=0 #1203
+2025/05/21-18:57:27.818 3de8 Level-0 table #1208: started
+2025/05/21-18:57:27.821 3de8 Level-0 table #1208: 13814 bytes OK
+2025/05/21-18:57:27.823 3de8 Delete type=0 #1205
+2025/05/21-18:57:27.834 3de8 Compacting 4@0 + 1@1 files
+2025/05/21-18:57:27.838 3de8 Generated table #1209@0: 93 keys, 9645 bytes
+2025/05/21-18:57:27.838 3de8 Compacted 4@0 + 1@1 files => 9645 bytes
+2025/05/21-18:57:27.838 3de8 compacted to: files[ 0 1 0 0 0 0 0 ]
+2025/05/21-18:57:27.839 3de8 Delete type=2 #1200
+2025/05/21-18:57:27.839 3de8 Delete type=2 #1202
+2025/05/21-18:57:27.839 3de8 Delete type=2 #1204
+2025/05/21-18:57:27.839 3de8 Delete type=2 #1206
+2025/05/21-18:57:27.839 3de8 Delete type=2 #1208
+2025/05/22-08:38:03.275 471c Level-0 table #1211: started
+2025/05/22-08:38:03.283 471c Level-0 table #1211: 13167 bytes OK
+2025/05/22-08:38:03.285 471c Delete type=0 #1207
+2025/05/22-11:14:59.535 2e7c Level-0 table #1213: started
+2025/05/22-11:14:59.566 2e7c Level-0 table #1213: 13577 bytes OK
+2025/05/22-11:14:59.570 2e7c Delete type=0 #1210
+2025/05/22-13:57:18.132 2838 Level-0 table #1215: started
+2025/05/22-13:57:18.241 2838 Level-0 table #1215: 13529 bytes OK
+2025/05/22-13:57:18.244 2838 Delete type=0 #1212
+2025/05/22-16:38:24.093 35a8 Level-0 table #1217: started
+2025/05/22-16:38:24.099 35a8 Level-0 table #1217: 13765 bytes OK
+2025/05/22-16:38:24.102 35a8 Delete type=0 #1214
+2025/05/22-16:38:24.103 35a8 Compacting 4@0 + 1@1 files
+2025/05/22-16:38:24.113 35a8 Generated table #1218@0: 93 keys, 9642 bytes
+2025/05/22-16:38:24.113 35a8 Compacted 4@0 + 1@1 files => 9642 bytes
+2025/05/22-16:38:24.113 35a8 compacted to: files[ 0 1 0 0 0 0 0 ]
+2025/05/22-16:38:24.114 35a8 Delete type=2 #1209
+2025/05/22-16:38:24.115 35a8 Delete type=2 #1211
+2025/05/22-16:38:24.115 35a8 Delete type=2 #1213
+2025/05/22-16:38:24.115 35a8 Delete type=2 #1215
+2025/05/22-16:38:24.115 35a8 Delete type=2 #1217
+2025/05/22-19:18:29.315 4eb4 Level-0 table #1220: started
+2025/05/22-19:18:29.319 4eb4 Level-0 table #1220: 13756 bytes OK
+2025/05/22-19:18:29.321 4eb4 Delete type=0 #1216
+2025/05/23-09:26:43.132 8e8 Level-0 table #1222: started
+2025/05/23-09:26:43.162 8e8 Level-0 table #1222: 12777 bytes OK
+2025/05/23-09:26:43.163 8e8 Delete type=0 #1219
+2025/05/23-12:21:19.542 4d30 Level-0 table #1224: started
+2025/05/23-12:21:19.572 4d30 Level-0 table #1224: 13327 bytes OK
+2025/05/23-12:21:19.574 4d30 Delete type=0 #1221
+2025/05/23-15:29:41.227 2190 Level-0 table #1226: started
+2025/05/23-15:29:41.232 2190 Level-0 table #1226: 13302 bytes OK
+2025/05/23-15:29:41.235 2190 Delete type=0 #1223
+2025/05/23-15:29:41.259 2190 Compacting 4@0 + 1@1 files
+2025/05/23-15:29:41.268 2190 Generated table #1227@0: 93 keys, 9645 bytes
+2025/05/23-15:29:41.268 2190 Compacted 4@0 + 1@1 files => 9645 bytes
+2025/05/23-15:29:41.269 2190 compacted to: files[ 0 1 0 0 0 0 0 ]
+2025/05/23-15:29:41.269 2190 Delete type=2 #1218
+2025/05/23-15:29:41.269 2190 Delete type=2 #1220
+2025/05/23-15:29:41.269 2190 Delete type=2 #1222
+2025/05/23-15:29:41.269 2190 Delete type=2 #1224
+2025/05/23-15:29:41.269 2190 Delete type=2 #1226
+2025/05/23-17:39:49.882 5060 Level-0 table #1229: started
+2025/05/23-17:39:49.913 5060 Level-0 table #1229: 12392 bytes OK
+2025/05/23-17:39:49.915 5060 Delete type=0 #1225
+2025/05/23-23:20:09.833 3118 Level-0 table #1231: started
+2025/05/23-23:20:09.841 3118 Level-0 table #1231: 13308 bytes OK
+2025/05/23-23:20:09.844 3118 Delete type=0 #1228
+2025/05/24-09:25:57.724 3c7c Level-0 table #1233: started
+2025/05/24-09:25:57.740 3c7c Level-0 table #1233: 12413 bytes OK
+2025/05/24-09:25:57.741 3c7c Delete type=0 #1230
